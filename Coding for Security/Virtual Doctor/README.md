@@ -21,4 +21,4 @@ This project is created with:
 
 ## Setup
 1. Download and install [Python](https://www.python.org/downloads/) on your computer
-2. Simply download the `diagnosis.py` and run it
+2. Simply download the `Diagnosis.py` and run it
