@@ -1,5 +1,4 @@
-# Dictionary - Alura Challenge #
-
+# Dictionary - Alura Challenge
 - - - -
 
 ## Purpose of the code
