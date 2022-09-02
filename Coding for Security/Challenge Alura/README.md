@@ -1,15 +1,20 @@
-# Machine Learning - Virtual Doctor #
+# Dictionary - Alura Challenge #
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#tecnologies)
-* [Setup](#setup)
+## Purpose of the code
+Register the students of the Cyber Defense course, provide the grades of the subjects and the final average of each student.
 
 - - - -
 
-## General Info
-This script performs a pre-diagnosis of diabetes based on blood glucose values collected when the patient is fasting, post-overload and casual blood glucose.\
-\
+## Values
+
+* Name
+* Age
+* Course
+* Yield
+* Final grade
+
+## Calculate Final Grade
+
 It's capable to tell if the pacient have a:
 * Normal Glucose
 * Decreased Glucose
