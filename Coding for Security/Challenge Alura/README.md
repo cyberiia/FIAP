@@ -13,6 +13,7 @@ Register the students of the Cyber Defense course, provide the grades of the sub
 * Grades of the subjects
 * Final grade
 
+
 ## Calculate Final Grade
 
 To calculate the final average, the grades of all disciplines (8) are summed and divided by 8:
@@ -25,13 +26,16 @@ To calculate the final average, the grades of all disciplines (8) are summed and
 * Security Management
 * Windows Services Applications
 
+
 ## Situation
 And if the final grade to above 6, the student then is approved, otherwise it is disapproved
+
 
 ## Technologies
 
 This project is created with:
 * Python 3.10.4
+
 
 ## Setup
 
