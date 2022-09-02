@@ -1,9 +1,10 @@
 # Dictionary - Alura Challenge #
 
+- - - -
+
 ## Purpose of the code
 Register the students of the Cyber Defense course, provide the grades of the subjects and the final average of each student.
 
-- - - -
 
 ## Values
 
