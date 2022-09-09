@@ -1,6 +1,6 @@
-# Machine Learning - Virtual Doctor #
+# Port Scanner - Python #
 
-## Table of contents
+## Modules
 * [General info](#general-info)
 * [Technologies](#tecnologies)
 * [Setup](#setup)
